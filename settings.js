@@ -26,7 +26,7 @@ const mintInfo = {
     price: 0.3,
     totalSupply: 10000,
     minUnits: 1,
-    maxUnits: 10,
+    maxUnits: 5,
     askMintLoop: true,
   },
   nftsInfo = {
